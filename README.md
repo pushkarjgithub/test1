@@ -1,2 +1,2 @@
 # test1
-test1 begineer
+THIS IS JUST A TEST REPO TO GET STARTED WITH GITHUB
